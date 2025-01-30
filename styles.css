@@ -22,3 +22,7 @@ main {
   align-items: center;
   gap: 5%;
 }
+
+.text-content, .form-section {
+  width: 40%;
+}
