@@ -21,13 +21,13 @@ body {
 
 main {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
-  gap: 5%;
+  width: 70%;
 }
 
 .text-content, .form-section {
-  width: 40%;
+  width: 45%;
 }
 
 h1 {
@@ -39,4 +39,19 @@ h1 {
 
 .text-content p {
   color: white;
+}
+
+.trial-div {
+  color: white;
+  background-color: hsl(248, 32%, 49%);
+  text-align: center;
+  padding: 0.5rem 0.2rem;
+  border-radius: 0.4rem;
+  box-shadow: 0 0.35rem 0 rgba(0, 0, 0, 0.2);
+  margin-bottom: 1rem;
+  font-weight: 400;
+}
+
+.bold {
+  font-weight: 600;
 }
