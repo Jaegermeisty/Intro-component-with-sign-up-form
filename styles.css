@@ -29,3 +29,14 @@ main {
 .text-content, .form-section {
   width: 40%;
 }
+
+h1 {
+  font-size: 3.3rem;
+  color: white;
+  line-height: 3.5rem;
+  margin-bottom: 1.7rem;
+}
+
+.text-content p {
+  color: white;
+}
