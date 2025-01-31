@@ -1,5 +1,6 @@
 html {
   font-size: 16px; 
+  overflow-x: hidden;
 }
 
 * {
@@ -39,6 +40,7 @@ h1 {
 
 .text-content p {
   color: white;
+  min-width: 0;
 }
 
 .trial-div {
