@@ -90,3 +90,16 @@ input:focus {
   border: none;
   cursor: pointer;
 }
+
+.agreement-text {
+  font-size: 0.6rem;
+  text-align: center;
+  font-weight: 500;
+  color: rgb(183, 183, 183);
+}
+
+.terms {
+  font-weight: 700;
+  color: hsl(0, 100%, 74%);
+  cursor: pointer;
+}
