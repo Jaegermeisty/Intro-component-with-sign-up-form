@@ -55,3 +55,12 @@ h1 {
 .bold {
   font-weight: 600;
 }
+
+.form-box {
+  background-color: white;
+  border-radius: 0.4rem;
+  display: flex;
+  flex-direction: column;
+  padding: 1.8rem 1.5rem;
+  gap: 0.8rem;
+}
