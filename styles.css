@@ -93,9 +93,10 @@ input:focus {
 
 .success-message {
   color: rgb(66, 179, 134);
+  text-align: center;
 }
 
-input.error {
+.error {
   border-color: red;
 }
 
