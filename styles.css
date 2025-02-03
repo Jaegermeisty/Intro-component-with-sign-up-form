@@ -110,6 +110,15 @@ input:focus {
   box-shadow: 0 0.2rem 0 rgb(66, 179, 134);
   border: none;
   cursor: pointer;
+  transition: 0.2s;
+}
+
+.submit-btn:hover {
+  background-color: hsl(154, 70%, 60%);
+}
+
+.submit-btn:active {
+  background-color: hsl(154, 83%, 39%);
 }
 
 .agreement-text {
